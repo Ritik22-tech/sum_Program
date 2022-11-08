@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+}
+
+.element{
+    display: flex;
+    padding: 20px;
+}
+
+hr{
+    border-style: dashed;
+}
+
+.tab tr td{
+    padding: 5px 30px;
+}
+
+.container{
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+    align-content: center;
+    border: 2px solid black;
+    width: auto;
+    position: relative;
+    padding: 30px;
+}
